@@ -1,6 +1,6 @@
 # COVID-19 | C19TP
 
-This project manages COVID-19 test data of employees of a company, or students or any organisation and visualize the peace at which testing is happening and to also visualize COVID-19 spread in a company or school or in any organization
+This project manages COVID-19 test data of employees of a company, or students, or any organization and visualizes the peace at which testing is happening and also visualize COVID-19 spread in a company or school or any organization;
 
 #### A sister of this project was developed with the idea of helping mangement to overcome monitoring challenges during this pandemic !
 
